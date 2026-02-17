@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi 👋 I'm Chandrama
+Frontend Developement learner from Nepal 🇳🇵
+
+💻 Currently learning: Advanced JavaScript
+🚀 Interested in: Web Development & UI/UX
+📫 Contact: pokheralchandrama@gmail.com
+
+
 
 <!--
 **ChandramaPokh/ChandramaPokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
